@@ -1,4 +1,7 @@
 # Stock_Market_Predictor
+Made a model that predicts next day's close price given the current day's open, high ,low ,Adj close and volume. Used LSTM and Linear Regression to do the above time series analysis to get good results! 
+
+
 Due credit has been given to all the references in comp4-finalday.ipynb
 There are 3 pynb files which we have submitted. The 4 files are as follows :
 1) comp4-finalday.ipynb
